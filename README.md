@@ -1,8 +1,8 @@
-<p align="center"><a href="https://lauralys.com"><picture><source media="(max-width: 1011px) and (prefers-color-scheme:dark)" srcset="assets/hero-m-dark.svg"><source media="(max-width: 1011px)" srcset="assets/hero-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="846" align="top" alt="Laura Lys, Product Designer. From the first sketch to a working product. AI agents, tool calling and memory. In Spanish, Portuguese and English. Available for new projects, working remotely."></picture></a></p>
+<p align="center"><a href="https://lauralys.com"><picture><source media="(max-width: 1011px) and (prefers-color-scheme:dark)" srcset="assets/hero-m-dark.svg"><source media="(max-width: 1011px)" srcset="assets/hero-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="846" align="top" alt="Laura Lys, Digital Product Designer. From the first sketch to a working product. AI agents, tool calling and memory. In Spanish, Portuguese and English. Available for new projects, working remotely."></picture></a></p>
 
 ### Hi there, I'm Laura
 
-I'm a product designer, working remotely. I speak Spanish, Portuguese and English.
+I'm a digital product designer, working remotely. I speak Spanish, Portuguese and English.
 
 I design mobile apps, websites and digital products. I've been exploring AI since 2023, both as a tool in my process and as something to design for.
 
